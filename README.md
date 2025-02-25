@@ -1,6 +1,6 @@
 
 
-# 🚀 *Solana & Ethereum Crypto Trading Bot Expert**  
+# 🚀 *Solana & Ethereum Crypto Trading Bot Expert*  
 Welcome to my repository! This year, I’ve expanded my expertise to develop **AI agents** and tools for **DeFi** and **blockchain projects**, alongside my extensive work in crypto trading bots. My focus is on creating automated, intelligent systems that empower developers, enhance trading strategies, and build smarter blockchain ecosystems.  
 
 ---
